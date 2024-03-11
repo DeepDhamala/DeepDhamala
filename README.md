@@ -19,43 +19,54 @@ Welcome to my GitHub profile!
 <!-- About Me -->
 ## About Me ℹ️
 
-I'm a passionate Java developer with a love for creating amazing software. I enjoy learning new technologies and solving complex problems. 🚀
+I am a web developer proficient in a range of technologies from Java(Spring), Python(Django), and FrontEnd(React) etc. With a focus on backend development, I specialize in Java and Spring Boot for creating robust APIs. On the frontend side, I have expertise in React, along with its different component libraries. 🚀
+
+- 🌐 Website: [deepdhamala.com.np](https://deepdhamala.com.np)  
+- 📧 Email: dev@deepdhamala.com.np  
+- 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/deep-dhamala-572754294/)
+- 📝 Blog: [Check out my blog](https://blog.deepdhamala.com.np)  
+- 🐦 Twitter: [@deepdhamala](https://x.com/dhamala_deep)
 
 <!-- Skills -->
 ## Skills 🛠️
 
+### Backend
 - Java ☕
 - Spring Framework 🌸
-- Git 🌳
+- Python 🐍
+- Django 🎓
+
+### Frontend
 - HTML/CSS 🎨
 - JavaScript 💻
 - TypeScript 📘
+- React 🚀
 - Bootstrap 🅱️
 - Material UI 🎨
-- NodeJS 🚀
-- Python 🐍
+
+### Databases
 - MS SQL Server 🛢️
 - MySQL 🐬
 - MongoDB 🍃
+
+### Tools & Others
+- Git 🌳
 - Linux 🐧
 - Postman 📬
 - Docker 🐳
 - WordPress 📝
 - Cloud ☁️
 
-
 <!-- Projects -->
 ## Projects 🌟
 
-Here are some of the projects I've been working on:
-
-1. [Tesla Clone]([link/to/project1](https://deepdhamala.github.io/tesla-clone-display/)): Description of Project 1.
-2. [Project 2](link/to/project2): Description of Project 2.
-3. [Project 3](link/to/project3): Description of Project 3.
+1. [Tesla Clone]([link/to/project1](https://deepdhamala.github.io/tesla-clone-display/)): Experience my React-powered project that faithfully recreates the Tesla homepage website. This project demonstrates my proficiency in React front-end development. 🚗
+2. [Java- Appointment Scheduler API]([link/to/project2](https://github.com/DeepDhamala/appointment-api)): The API using the Spring framework, it can empower businesses to streamline their scheduling processes efficiently. 📅
+3. [Python- College Website BE]([link/to/project3](https://github.com/DeepDhamala/college-api)): I've developed the backend of a College Website using the robust technologies of Python Django and Django Rest Framework. 🏫
 
 Feel free to explore my repositories to learn more about my work!
 
 <!-- Contact Me -->
 ## Contact Me 📧
 
-You can reach out to me via email at [your@email.com](mailto:your@email.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile). Let's collaborate and build something awesome together! 😊
+You can reach out to me via email at [dev@deepdhamala.com.np](mailto:dev@deepdhamala.com.np) or connect with me on [LinkedIn](https://www.linkedin.com/in/deep-dhamala-572754294/). Let's collaborate and build something awesome together! 😊
