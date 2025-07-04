@@ -5,9 +5,6 @@ This is my Kingdom 🏰 Come.
 
 <!-- Animation -->
 <!-- Replace `https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif` with an actual animation link -->
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Animation" width="400px">
-</p>
 
 <!-- Metrics -->
 <p align="center">
