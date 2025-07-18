@@ -18,13 +18,13 @@ Here are the companies I have worked with from responsibilities ranging from Jav
 
   <!-- Cosmo Real Estates -->
   <div style="flex: 1; min-width: 250px; max-width: 300px; border: 1px solid #ccc; padding: 15px; border-radius: 10px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <h4 style="margin: 10px 0 5px;">1. Cosmo Real Estates</h4>
     <img src="https://cosmorealestates.com/_next/image?url=https%3A%2F%2Fprosys.himalayalabs.tech%2Frsewa%2Ffiles%2Fprofile_document%2F1749572659924_4c65cb5a-e678-40ae-aa4b-2e9c6e10b674.png&w=3840&q=75"
          alt="Cosmo Real Estates"
-         style="width: 100%; height: 200px; border-radius: 8px;" />
-    <h2 style="margin: 10px 0 5px;">Cosmo Real Estates</h2>
-    <p style="font-size: 14px;">Cosmo Real Estates Pvt. Ltd.</p>
+         style="width: 25%; height: 150px; border-radius: 8px;" />
+    <p style="font-size: 14px;">Cosmo Real Estates Pvt. Ltd. (2019 - Present : Tech Lead)</p>
     <p style="font-size: 13px; margin: 8px 0;">
-      Led backend development using Java Spring, designed database schema with PostgreSQL, and collaborated with frontend team to deliver responsive real estate web solutions.(2019 - Present : Tech Lead)
+      Led backend development using Java Spring, designed database schema with PostgreSQL, and collaborated with frontend team to deliver responsive real estate web solutions.
     </p>
     <a href="https://cosmorealestates.com/"
        target="_blank"
@@ -32,16 +32,17 @@ Here are the companies I have worked with from responsibilities ranging from Jav
       Visit Website
     </a>
   </div>
-
+</br>
+</hr>
   <!-- Room Sewa App -->
   <div style="flex: 1; min-width: 250px; max-width: 300px; border: 1px solid #ccc; padding: 15px; border-radius: 10px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <h4 style="margin: 10px 0 5px;">2. Room Sewa App</h4>
     <img src="https://play-lh.googleusercontent.com/PFr-PMS5ZQzqSzg7-jf-mvO_n-NNBD64F9MHu0LptABLg4HNGt6A7lWPBLTonVIa8w=w240-h480"
          alt="Room Sewa App"
-         style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;" />
-    <h2 style="margin: 10px 0 5px;">Room Sewa App</h2>
-    <p style="font-size: 14px;">Room Sewa Pvt. Ltd.</p>
+         style="width: 25%; height: 200px; object-fit: cover; border-radius: 8px;" />
+    <p style="font-size: 14px;">Room Sewa Pvt. Ltd. (2024 - Present : Java Developer & Maintainer)</p>
     <p style="font-size: 13px; margin: 8px 0;">
-      Developed backend APIs with Java Spring, implemented RESTful services, and integrated with MS SQL Server to streamline property rental management.(2024 - Present : Java Developer & Maintainer)
+      Developed backend APIs with Java Spring, implemented RESTful services, and integrated with MS SQL Server to streamline property rental management.
     </p>
     <a href="https://play.google.com/store/apps/details?id=com.roomSewa&pcampaignid=web_share"
        target="_blank"
@@ -49,13 +50,15 @@ Here are the companies I have worked with from responsibilities ranging from Jav
       View on Play Store
     </a>
   </div>
+  <br/>
+  <br/>
 
   <!-- Chitwan Tourism Hub -->
   <div style="flex: 1; min-width: 250px; max-width: 300px; border: 1px solid #ccc; padding: 15px; border-radius: 10px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <h4 style="margin: 10px 0 5px;">3. Chitwan Tourism Hub</h4>
     <img src="https://chitwantourismhub.com.np//assets/logo-removebg-preview.png"
          alt="Chitwan Tourism Hub"
-         style="width: 100%; height: 200px; border-radius: 8px;" />
-    <h2 style="margin: 10px 0 5px;">Chitwan Tourism Hub</h2>
+         style="width: 25%; height: 150px; border-radius: 8px;" />
     <p style="font-size: 14px;">Chitwan Tourism Hub Property Developer Pvt. Ltd.</p>
     <p style="font-size: 13px; margin: 8px 0;">
       Developed website with Nextjs, integrating frontend UI with backend APIs, ensuring seamless user experience and aligned with client’s business goals.
@@ -66,9 +69,11 @@ Here are the companies I have worked with from responsibilities ranging from Jav
       Visit Website
     </a>
   </div>
+  </br>
+  </br>
  <!-- Other & Personal Projects -->
  <div style="flex: 1; min-width: 250px; max-width: 300px; border: 1px solid #ccc; padding: 15px; border-radius: 10px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  <h2 style="margin: 10px 0 15px;">Other & Personal</h2>
+  <h4 style="margin: 10px 0 5px;">3. Other & Personal </h4>
 
   <!-- Film Patro -->
   <div style="margin-bottom: 12px;">
@@ -76,13 +81,14 @@ Here are the companies I have worked with from responsibilities ranging from Jav
     <p style="font-size: 13px; margin: 4px 0;">
       A Movie Review & Rating System. Developed with Java Spring Boot, following clean clean architecture principles, design patterns, and test-driven development practices.
     </p>
-    <a href="https://github.com/deepDhamala/film-patro"
+    <a href="https://github.com/DeepDhamala/filmpatro"
        target="_blank"
        style="font-size: 13px; color: #007BFF; text-decoration: none;">
       View Code
     </a>
   </div>
-
+</br>
+</br>
   <!-- Appointment Booking System -->
   <div>
     <strong style="font-size: 14px;">📅 Appointment Booking API</strong>
@@ -99,8 +105,9 @@ ___
 
 # 🎓 Education
 
-## Bachelor of Computer Engineering
-**Institution Thapathali Campus, Institute of Engineering, Tribhuvan University, Nepal**
+**Bachelor of Computer Engineering**  
+Thapathali Campus, Institute of Engineering(IOE), Tribhuvan University, Nepal
+
 
 ___
 
